@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: black;
+}
+.container {
+    width: 95%;
+    max-width: 800px;
+    margin: 30px auto;
+    background: white;
+    padding: 5px;
+}
+h1 {
+    font-size: 2em;
+    color: black;
+    margin-bottom: 5px;
+}
+.contact-info {
+    font-size: 0.9em;
+    color: #7f8c8d;
+    margin-bottom: 20px;
+}
+.contact-info a {
+    color: #2980b9;
+    text-decoration: none;
+}
+.contact-info a:hover {
+    text-decoration: underline;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section-title {
+    font-size: 1.3em;
+    color: #2980b9;
+    border-bottom: 2px solid #ecf0f1;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+h3 {
+    font-size: 1.1em;
+    color: black;
+    margin-bottom: 5px;
+}
+p, ul {
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin-bottom: 8px;
+}
+ul {
+    padding-left: 20px;
+}
+ul li {
+    margin-bottom: 5px;
+}
